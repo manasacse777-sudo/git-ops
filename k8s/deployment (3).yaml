@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: spring-app-container
-        image: youracr.azurecr.io/spring-app:latest
+        image: manasaacr123.azurecr.io/spring-app:latest
         imagePullPolicy: Always
         ports:
         - containerPort: 80
